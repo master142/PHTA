@@ -10,9 +10,9 @@ How to use:
 4. then go to PHT.py
 5. in line 7 you will see that there is somthing like this
       key = "your api key"
-6.here you will have to go to this website link:  https://opencagedata.com/dashboard#geocoding
-7.scroll little down then you will see API keys
-8.copy it and paste it "your api key:
+6. here you will have to go to this website link:  https://opencagedata.com/dashboard#geocoding
+7. scroll little down then you will see API keys
+8. copy it and paste it "your api key:
 
 you can edit it by any way ex: nano, vim etc
 
