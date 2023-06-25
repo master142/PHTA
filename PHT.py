@@ -29,4 +29,4 @@ MM = folium,map(loacation=[lat,lng], zoom_start = 9)
 
 folium.Marker([lat, lng], popup= YL).add_to(MM)
 
-MM.save('PHL.html')
+MM.save('PHL' + number + '.html')
