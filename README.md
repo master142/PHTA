@@ -19,3 +19,5 @@ you can edit it by any way ex: nano, vim etc
 all credits goes to
 
 # Ashwin Gop
+
+note: author won't be responsibble for any missuse of this tool
